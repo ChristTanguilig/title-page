@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "852111692962",
+    "project_id": "nice-db538",
+    "storage_bucket": "nice-db538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852111692962:android:fd0ec79d2feead9850b3fb",
+        "android_client_info": {
+          "package_name": "com.Nice.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMLQpl7i_hDZCIxKTJwkn3nh_czOag-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852111692962:android:0c6da16c5385702550b3fb",
+        "android_client_info": {
+          "package_name": "com.javaandroid.title"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMLQpl7i_hDZCIxKTJwkn3nh_czOag-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852111692962:android:a3189484358a587450b3fb",
+        "android_client_info": {
+          "package_name": "com.javaandroid.wow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMLQpl7i_hDZCIxKTJwkn3nh_czOag-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
